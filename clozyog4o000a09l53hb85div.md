@@ -7,7 +7,7 @@ cuid: clozyog4o000a09l53hb85div
 slug: tutorial-instalasi-burp-suite-di-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708844576256/318a9cf5-440c-4980-ae5f-4dd5c18db8a0.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708844792912/c74b409c-058d-446b-a352-1beec0e94fed.png
-tags: tools, testing, burpsuite, ethicalhacking
+tags: tools, burpsuite, ethicalhacking
 
 ---
 
@@ -54,7 +54,7 @@ Silahkan buka Burp Suite yang telah kalian install, untuk versi communitynya kal
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708841010070/22b79f4e-cf02-40d2-8839-f6356c66acbc.png align="center")
 
-Jika kalian hanya ingin menggunakan browser bawaan dari Burp Suite, kalian cukup buka tab Proxy, lalu klik Open Browser. Namun jika kalian ingin menggunakan browser yang biasa kalian gunakan, kalian perlu mengatur proxynya dan menginstall sertifikat Burp Suite pada browser kalian terlebih dahulu.
+Jika kalian hanya ingin menggunakan browser bawaan dari Burp Suite, cukup buka tab **Proxy**, lalu klik **Open Browser**. Namun jika ingin menggunakan browser yang biasa kalian gunakan, maka diperlukan beberapa tahap lanjutan seperti mengatur proxy dan menginstall sertifikat Burp Suite pada browser kalian terlebih dahulu.
 
 Berikut adalah bagaimana cara mengatur proxy dan menginstall sertifikat pada browser firefox.
 
